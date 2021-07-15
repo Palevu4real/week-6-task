@@ -1,0 +1,26 @@
+
+h1{color: deeppink;
+    padding-left: 30px;
+}
+.mynav{
+    background-color:whitesmoke;
+}
+.navbar-brand{
+    color: deeppink !important;
+}
+.nav-link{
+    color: deeppink !important;
+}
+
+.carousel{
+    padding-left: 50px;
+    width: 700px;
+}
+
+.portfolio{
+    display: flex;
+}
+
+.credits{
+    color:black;
+}

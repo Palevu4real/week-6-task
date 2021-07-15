@@ -1,0 +1,46 @@
+h1{
+    color: white;
+    padding-left: 100px;
+    padding-top: 200px;
+}
+
+h3{
+    color: white;
+    padding-left: 100px;
+}
+.mynav{
+    background-color:whitesmoke;
+}
+.navbar-brand{
+    color: deeppink !important;
+}
+.nav-link{
+    color: deeppink !important;
+}
+
+.mymain{
+    height: 100%;    
+    background-image: url(bg.jpg);
+    content: "";
+  position:absolute;
+  background-size:cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+@media screen and (max-width: 650px) {
+    .mymain {
+      width: 100%;
+      display: block;
+    }
+  }
+
+.about{
+    color: white;
+}
+.credits{
+    color: white;
+}
+
