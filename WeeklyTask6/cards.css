@@ -1,0 +1,38 @@
+body{
+    background-image: url("me.jpg");
+    
+}
+
+.profileImg{ background-color: transparent;
+    border-radius: 50%;
+}
+
+#mainProfile{justify-content: center;
+    background-color: transparent;
+    display: grid;
+    
+}
+
+.navbar-light.bg-light {background-color:white !important;
+
+}
+h1{  
+    padding-left: 32%;
+background-color:transparent;
+color:blanchedalmond;
+}
+
+
+.my {font-family: sans-serif;
+color:green !important;
+}
+h2{
+color:black;
+}
+p{
+color:black;
+}
+
+.card{border-radius: 50px !important;
+    background-color: opaque;
+}
